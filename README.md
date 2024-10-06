@@ -1,5 +1,6 @@
 ## Octavia is here
 
+I'm a digital marketer with over 10 year experience!
 
 <!--
 **octaviamelt/octaviamelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
